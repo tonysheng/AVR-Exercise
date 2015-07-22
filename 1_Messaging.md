@@ -1,6 +1,6 @@
 # Messaging
 
-Product messaging document for the AltspaceVR Chrome Extension. The goal here is precision and brevity, not marketing langauge. 
+Product messaging document for the AltspaceVR Chrome Extension. The goal here is precision and brevity, not marketing language. 
 
 ## Top line
 
