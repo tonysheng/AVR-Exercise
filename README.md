@@ -6,10 +6,12 @@ AltspaceVR has developed a new feature to make it easier to experience web conte
 
 The deliverables listed below are included in this repo
 
-1. Develop messaging for the product (link)
-2. Plan marketing tactics, timing, and budget for the feature release (link)
-3. Articulate a plan to measure success (link) 
-4. Write a blog post announcing the feature (link)
+1. Develop messaging for the product [(link)](1_Messaging.md)
+2. Plan marketing tactics, timing, and budget for the feature release [(link)](2_PlanAndTactics.md)
+3. Articulate a plan to measure success [(link)](3_Evaluation.md)
+4. Write a blog post announcing the feature [(link)](4_BlogPost.md)
+
+Bonus. Landing page wireframes [(link)](index.html)
 
 ## Original Context
 
