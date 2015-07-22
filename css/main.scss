@@ -1,0 +1,135 @@
+/* configs */
+$primary-color: #0098FF;
+$accent-color: #0bc99f;
+
+/*general*/
+
+html {
+	font-size: 18px;
+	color: rgba(black, .7);
+	font-family: Helvetica, sans-serif;
+}
+
+@media screen and (max-width: 48em) {
+	html {
+		font-size: 14px;
+	}
+}
+
+h1 {
+	font-size: 2rem;
+	margin-bottom: .5rem;
+	line-height: 150%;
+}
+
+h2 {
+	font-size: 2rem;
+	margin-bottom: .5rem;
+	line-height: 150%;
+}
+
+h3 {
+	font-size: 1.2rem;
+	/*margin-bottom: 2rem;*/
+	line-height: 150%;
+}
+
+p, ul, li {
+	font-size: 1rem;
+	line-height: 150%;
+}
+
+img {
+	max-width:100%;
+	height:auto;
+}
+
+
+body {
+	margin: 0 auto;
+	background-color: rgba(black, .05);
+}
+
+.hero__container, .features__container {
+	max-width: 75em;
+	margin: 0 auto;
+}
+
+
+/*masthead*/
+
+.masthead__container {
+	padding: 2em;
+	background-color: $primary-color;
+}
+
+/*hero*/
+
+.hero__container {
+	padding: 2em;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.hero__container__copy {
+	padding: 3em;
+	text-align: center;
+	h1 {
+		color: $primary-color;
+	}
+}
+
+.hero__container__image {
+	text-align: center;
+}
+
+/*features*/
+#features {
+	
+	color: rgba(black, .7)
+}
+
+.features__container {
+	padding: 2em;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.features__container__header {
+	text-align: center;
+	color: $primary-color;
+	padding-bottom: 5em;
+}
+
+.features__container__copy {
+	h3 {
+		color: rgba(black, .5);
+		margin-bottom: 2rem;
+	}
+}
+
+@media screen and (max-width: 48em) {
+	.features__container__copy {
+		text-align: center;
+	}
+}
+
+.features__container__image {
+	text-align: center;
+}
+
+/*cta*/
+#cta {
+	background-color: $accent-color;
+
+}
+
+.cta__container {
+	padding: 4em;
+	text-align: center;
+	color: white;
+}
+
+.cta__container__headline {
+	color: white;
+}
